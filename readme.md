@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora de Criptomoedas</h1>
 
 <p align="center">
-Projeto realizado através da Imersão Dev Alura
+Projeto JS realizado através da Imersão Dev Alura.
 </p>
 
 <p align="center">
@@ -14,12 +14,18 @@ Projeto realizado através da Imersão Dev Alura
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido utilizando apenas JavaScript.
+Esse projeto foi desenvolvido com a seguinte tecnologia:
+
+- JavaScript
 
 ## 💻 Projeto
 
-A calculadora de cripto foi desenvolvida com base no primeiro desafio da Imersão Dev da Alura.
+A calculadora de criptomoedas foi desenvolvida com base no primeiro desafio da Imersão Dev Alura.
 
 ## :book: Aprendizados
 
-Utilizei aprendizados básicos sobre JS e os apliquei para personalizar ainda mais a calculadora.
+Utilizei meus aprendizados na personalização do código para melhor entendimento
+
+---
+
+Feito com :heart: por mim
